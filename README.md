@@ -21,4 +21,4 @@ I'm a Student pursing 3rd engineering in Artificial Intelligence & Data Science 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <br/>
 
-<img src="[[https://c4.wallpaperflare.com/wallpaper/371/264/21/itzmauuuroo-hackers-anonymous-hd-wallpaper-preview.jpg](https://i.gifer.com/J4p.gif)](https://i.gifer.com/J4p.mp4)" width="40%" height="45%"></a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyyNRpGERPcSA1L7c3__aQXE74jqsME_YhA&usqp=CAU" width="40%" height="45%"></a>
