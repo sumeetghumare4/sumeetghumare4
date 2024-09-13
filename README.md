@@ -1,66 +1,24 @@
+# 💫 About Me:
+🌱 I’m currently learning AI, GEN-AI, GPT4, LLM, LSTM, MLops<br>-- 👯 I’m looking to collaborate on Machine learning, Deep learning, Artificial Intelligence, Data Science, Data Mining, Data Analytics, Power BI Projects<br><br>📫 How to reach me: sumeetghumare4@gmail.com<br><br>⚡ What I like to do: I like so much exploring new things, like emerging technologies eg, Artificial Intelligence, Neural Network...and MLops<br><br>⚡ Fun fact MyCode to Me : Don't touch me otherewise you are getting tooooo much errors...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
 
-<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="35">, I'm Sumeet Ghumare <img src="https://camo.githubusercontent.com/8dd1044426df54e4ae42f9df9d1957f058c02333f8776e66dc6d371a442529af/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313539333535353338392f393537392f626c6f625f657863697465642e6769663f31353933353535333839" alt="img"  height="35" /></h1>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__24sumeet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeet-ghumare24) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sumeetghumare4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ghumare_Sumeet) 
 
-<h3>A passionate Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sumeetghumare4&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumeetghumare4&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetghumare4&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sumeetghumare4&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning **AI, GEN-AI, GPT4, LLM, LSTM, MLops**
- 
--- 👯 I’m looking to collaborate on **Machine learning, Deep learning, Artificial Intelligence, Data Science, Data Mining, Data Analytics, Power BI Projects**
+### ✍️ Inspiring Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 How to reach me: **sumeetghumare4@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sumeetghumare4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- ⚡ What I like to do: **I like so much exploring new things, like emerging technologies eg, Artificial Intelligence, Neural Network...and MLops**
-
-- ⚡ Fun fact **MyCode to Me : Don't touch me otherewise you are getting tooooo much errors...**<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
-<br>
-<div align="center">
-<h3><b>😄 Connect With Me</b></h3>
-</div>
-<p align="center">
-<a href="https://www.linkedin.com/in/sumeet-ghumare24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rock1223" height="30" width="40" /></a>
-<a href="https://twitter.com/GhumareSumeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rock12231" height="30" width="40" /></a>
-<!-- <a href="https://codepen.io/rock12231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rock12231" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rock1223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rock1223" height="30" width="40" /></a> -->
-</p>
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/537f66454b766b0d56da91225206ebf6d28ecff24d84668d52cf9430e02460fd/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667"" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeetghumare4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="sumeetghumare4" />
-</p>
-
-<p align='center'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetghumare4@gmail.com&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="sumeetghumare4" />
-</p>
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumeetghumare4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="sumeetghumare4">
-</p>
-
-<br>
-<div align="center">
-<h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
-</div>
-<div align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeetghumare4&column=-1&margin-w=5" alt="sumeetghumare4" /></a>
-</div>
-
-<br>
-<div align="center">
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<div align="center">
-  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
------
-
-[Sumeet](https://github.com/sumeetghumare4)
-Last Edited on : 01/04/2024
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
