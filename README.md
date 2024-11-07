@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Portfolio : https://sumeetghumare.co/<br>
+Portfolio : https://sumeetghumare4.github.io/profile-/
 
 🌱 I’m currently learning AI, GEN-AI, GPT4, LLM, LSTM, MLops<br>-- 👯 I’m looking to collaborate on Machine learning, Deep learning, Artificial Intelligence, Data Science, Data Mining, Data Analytics, Power BI Projects<br><br>📫 How to reach me: sumeetghumare4@gmail.com<br><br>⚡ What I like to do: I like so much exploring new things, like emerging technologies eg, Artificial Intelligence, Neural Network...and MLops<br><br>⚡ Fun fact MyCode to Me : Don't touch me otherewise you are getting tooooo much errors...
 
